@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "id": "ab121886-e9ec-4d03-9dca-50d50ad55900",
+      "username": "OWNER",
+      "passwordHash": "$2b$10$089o.z5XB4x/EGgpjnDv3..gRM7BMwjfMxNhASrah8TpSHJ6kw18W",
+      "role": "OWNER",
+      "status": "active",
+      "mustChangePassword": true,
+      "createdAt": "2026-09-08T14:53:57.121Z",
+      "updatedAt": "2026-09-08T14:53:57.123Z"
+    },
+    {
+      "id": "300eb198-05e1-43e8-9c9a-5d696b586cf7",
+      "username": "client_demo",
+      "passwordHash": "$2b$10$9Z3D1uQc2m1d0wmba.YPHuZ/ocUsiv8F.7NrT1hZ5l4XWhzF6tJti",
+      "role": "CLIENT",
+      "status": "active",
+      "mustChangePassword": false,
+      "createdAt": "2026-09-08T14:53:57.231Z",
+      "updatedAt": "2026-09-08T14:53:57.231Z"
+    },
+    {
+      "id": "a4f78867-5716-460b-ac45-56973e5ed199",
+      "username": "mit_xr_lab",
+      "passwordHash": "$2b$10$.1KHVjMHNh37R4gbGpM4gOuPt.ad6f7NO4J1GKA5L4zKd0ag8v.FK",
+      "role": "CLIENT",
+      "status": "active",
+      "mustChangePassword": true,
+      "createdAt": "2026-09-08T15:01:38.556Z",
+      "updatedAt": "2026-09-08T15:01:38.556Z"
+    }
+  ],
+  "apks": [
+    {
+      "id": "dda4b836-62b8-49a4-8e21-16bd2cfb2004",
+      "projectName": "Human Heart Blood Circulation",
+      "apkName": "HeartCirculation_VR",
+      "description": "Interactive 3D cardiovascular simulation for Meta Quest 2/3 and Pro. Explore ventricles, valves, oxygenation flows, and cardiac cycles in real-time VR.",
+      "version": "1.0.0",
+      "unityVersion": "2022.3 LTS",
+      "fileName": "HeartCirculation_VR_v1.0.0.apk",
+      "originalName": "HeartCirculation_VR_v1.0.0.apk",
+      "fileSize": 45200000,
+      "storagePath": "C:\\Users\\HP\\Desktop\\ARVR\\server\\storage\\apks\\HeartCirculation_VR_v1.0.0.apk",
+      "thumbnail": "",
+      "status": "published",
+      "uploadedBy": "OWNER",
+      "downloadCount": 18,
+      "createdAt": "2026-09-08T14:53:57.236Z",
+      "updatedAt": "2026-09-08T14:53:57.236Z"
+    },
+    {
+      "id": "c3129806-dbe4-4ca6-a0d4-e3b87d753bbb",
+      "projectName": "Physics Virtual Laboratory",
+      "apkName": "PhysicsVR_Lab",
+      "description": "Comprehensive Newtonian mechanics, optics, projectile motion, and electromagnetism virtual experiments built with Unity XR Interaction Toolkit.",
+      "version": "1.2.0",
+      "unityVersion": "2022.3 LTS",
+      "fileName": "PhysicsVR_Lab_v1.2.0.apk",
+      "originalName": "PhysicsVR_Lab_v1.2.0.apk",
+      "fileSize": 68500000,
+      "storagePath": "C:\\Users\\HP\\Desktop\\ARVR\\server\\storage\\apks\\PhysicsVR_Lab_v1.2.0.apk",
+      "thumbnail": "",
+      "status": "published",
+      "uploadedBy": "OWNER",
+      "downloadCount": 34,
+      "createdAt": "2026-09-08T14:53:57.238Z",
+      "updatedAt": "2026-09-08T14:53:57.238Z"
+    },
+    {
+      "id": "ca29c808-537c-4729-930f-3233fbdf22cb",
+      "projectName": "Magnetic Field Simulation",
+      "apkName": "MagneticFields_MR",
+      "description": "Mixed Reality electromagnetic vector field visualization. Place physical bar magnets and observe 3D flux lines and Lorentz force vectors.",
+      "version": "1.0.1",
+      "unityVersion": "2022.3 LTS",
+      "fileName": "MagneticFields_MR_v1.0.1.apk",
+      "originalName": "MagneticFields_MR_v1.0.1.apk",
+      "fileSize": 38400000,
+      "storagePath": "C:\\Users\\HP\\Desktop\\ARVR\\server\\storage\\apks\\MagneticFields_MR_v1.0.1.apk",
+      "thumbnail": "",
+      "status": "published",
+      "uploadedBy": "OWNER",
+      "downloadCount": 12,
+      "createdAt": "2026-09-08T14:53:57.270Z",
+      "updatedAt": "2026-09-08T14:53:57.270Z"
+    },
+    {
+      "id": "749d4d18-2c35-47c7-9ac5-6d95bdfd42c6",
+      "projectName": "AI & Robotics Experience",
+      "apkName": "RoboticsAI_Sim",
+      "description": "6-DOF robotic arm inverse kinematics and computer vision sorting simulation built for Oculus Quest with real-time AI obstacle avoidance.",
+      "version": "2.0.0",
+      "unityVersion": "2022.3 LTS",
+      "fileName": "RoboticsAI_Sim_v2.0.0.apk",
+      "originalName": "RoboticsAI_Sim_v2.0.0.apk",
+      "fileSize": 82100000,
+      "storagePath": "C:\\Users\\HP\\Desktop\\ARVR\\server\\storage\\apks\\RoboticsAI_Sim_v2.0.0.apk",
+      "thumbnail": "",
+      "status": "published",
+      "uploadedBy": "OWNER",
+      "downloadCount": 28,
+      "createdAt": "2026-09-08T14:53:57.274Z",
+      "updatedAt": "2026-09-08T14:53:57.274Z"
+    },
+    {
+      "id": "bd5b16ba-de76-4cde-8472-fee7f515b7f2",
+      "projectName": "Interactive eye",
+      "apkName": "Interactiveeye_VR",
+      "description": "",
+      "version": "1.0.0",
+      "unityVersion": "2022.3 LTS",
+      "fileName": "interactive_eye-1792664745674-129424.apk",
+      "originalName": "interactive_eye.apk",
+      "fileSize": 81943456,
+      "storagePath": "C:\\Users\\HP\\Desktop\\ARVR\\server\\storage\\apks\\interactive_eye-1792664745674-129424.apk",
+      "thumbnail": "",
+      "status": "published",
+      "uploadedBy": "OWNER",
+      "downloadCount": 1,
+      "createdAt": "2026-10-22T10:25:46.378Z",
+      "updatedAt": "2026-10-22T10:25:46.379Z"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "b4d855ba-0366-4271-8691-ccdea8b16391",
+      "userId": "a4f78867-5716-460b-ac45-56973e5ed199",
+      "username": "mit_xr_lab",
+      "apkId": "749d4d18-2c35-47c7-9ac5-6d95bdfd42c6",
+      "projectName": "AI & Robotics Experience",
+      "apkVersion": "2.0.0",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.9278",
+      "downloadedAt": "2026-09-08T15:01:38.814Z"
+    },
+    {
+      "id": "8ff53fbe-26d9-4e96-ac94-3e8fb83df309",
+      "userId": "ab121886-e9ec-4d03-9dca-50d50ad55900",
+      "username": "OWNER",
+      "apkId": "bd5b16ba-de76-4cde-8472-fee7f515b7f2",
+      "projectName": "Interactive eye",
+      "apkVersion": "1.0.0",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "downloadedAt": "2026-10-22T10:26:11.387Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "18882df3-7d82-4d1d-8497-61acecb623f0",
+      "name": "Prof. Marcus Thorne",
+      "email": "m.thorne@mit.edu",
+      "subject": "Quest 3 Virtual Biology Lab Deployment",
+      "message": "Inquiring about deploying your Human Heart and Cellular Mitosis APKs across 50 Meta Quest 3 headsets.",
+      "createdAt": "2026-09-08T15:01:45.017Z"
+    }
+  ]
+}

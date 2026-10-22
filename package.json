@@ -1,0 +1,28 @@
+{
+  "name": "arvr-innovation-platform",
+  "version": "1.0.0",
+  "description": "AR/VR, AI, Robotics, Oculus and Metaverse Innovation & Learning Platform with Secure Unity APK Management",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"cyan,magenta\" \"npm run dev:server\" \"npm run dev:client\"",
+    "build:client": "cd client && npm run build",
+    "start": "cd server && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "ar",
+    "vr",
+    "metaverse",
+    "unity-2022",
+    "oculus",
+    "ai",
+    "robotics"
+  ],
+  "author": "AR/VR Innovation Team",
+  "license": "MIT"
+}
