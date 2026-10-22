@@ -1,6 +1,6 @@
 import { User } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_URL || '/api';
 
 // Helper to get auth header
 const getAuthHeaders = (isFormData: boolean = false): HeadersInit => {
